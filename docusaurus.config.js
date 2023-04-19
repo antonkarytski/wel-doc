@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  url: 'https://heyheyjude.github.io/wel-doc/',
+  url: 'https://heyheyjude.github.io',
   baseUrl: '/wel-doc/',
   organizationName: 'heyheyjude', // Usually your GitHub org/user name.
   projectName: 'wel-doc', // Usually your repo name.

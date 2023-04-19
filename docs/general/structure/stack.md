@@ -7,4 +7,12 @@ sidebar_position: 4
 ## Expo или React Native
 ### Органичения Expo
 
+## TypeScript
+
 ## Effector
+
+## React Navigation
+
+## Native Base
+
+

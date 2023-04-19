@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwel_doc=self.webpackChunkwel_doc||[]).push([[6815],{6086:e=>{e.exports=JSON.parse('{"label":"effector","permalink":"/blog/tags/effector","allTagsPath":"/blog/tags","count":1}')}}]);

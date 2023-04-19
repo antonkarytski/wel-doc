@@ -1,0 +1,17 @@
+didenko:
+  name: Victor Didenko
+  title: Maintainer of Effector
+  url: https://github.com
+  image_url: https://res.cloudinary.com/practicaldev/image/fetch/s--B1SRkTht--/c_fill,f_auto,fl_progressive,h_50,q_auto,w_50/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/255812/d3d57bd6-9958-46ac-9d7c-0c18702ead33.jpeg
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png

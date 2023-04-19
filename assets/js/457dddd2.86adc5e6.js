@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwel_doc=self.webpackChunkwel_doc||[]).push([[8526],{1545:e=>{e.exports=JSON.parse('{"permalink":"/wel-doc/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

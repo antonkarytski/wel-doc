@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwel_doc=self.webpackChunkwel_doc||[]).push([[3378],{803:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/wel-doc/blog/tags/hello","allTagsPath":"/wel-doc/blog/tags","count":1}')}}]);
